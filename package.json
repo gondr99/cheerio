@@ -1,0 +1,27 @@
+{
+  "name": "crawl",
+  "version": "0.0.5",
+  "description": "node수업용 cherrio 패키지 사용법",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gondr99/cheerio.git"
+  },
+  "keywords": [
+    "node",
+    "cheerio"
+  ],
+  "author": "gondr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gondr99/cheerio/issues"
+  },
+  "homepage": "https://github.com/gondr99/cheerio#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
